@@ -1,0 +1,19 @@
+.topic{
+    font-weight: bold;
+    font-size: 16px;
+    width: fit-content;
+}
+
+.title{
+    margin:auto;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+*{
+    background-color: aqua;
+}
+
+table{
+    border: 2px solid black;
+}
